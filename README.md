@@ -1,2 +1,2 @@
 # hello-world
-idk
+First project, super simple.
